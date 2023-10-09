@@ -24,3 +24,10 @@ Here are some ideas to get you started:
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+
+
+I possess robust front-end development and quality assurance expertise, making me a skilled software engineer. Additionally, I have successfully led small yet highly effective teams, showcasing my leadership capabilities.
+
+I've collaborated closely with PMs, designers, engineers, and others in my career, translating business needs into engineering solutions. I'm passionate about delivering top-notch products by working closely with both business and engineering teams.
+
+I also have hands-on experience as a speaker, delivering talks at meetups and conducting internal workshops within organizations.
