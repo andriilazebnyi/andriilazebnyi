@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 <br />
 <br />
+<br />
 
 I possess robust front-end development and quality assurance expertise, making me a skilled software engineer. Additionally, I have successfully led small yet highly effective teams, showcasing my leadership capabilities.
 
