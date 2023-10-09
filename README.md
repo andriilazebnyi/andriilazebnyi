@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
-</br>
+<br />
+<br />
 
 I possess robust front-end development and quality assurance expertise, making me a skilled software engineer. Additionally, I have successfully led small yet highly effective teams, showcasing my leadership capabilities.
 
