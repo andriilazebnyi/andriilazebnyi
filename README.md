@@ -15,8 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I possess robust front-end development and quality assurance expertise, making me a skilled software engineer. Additionally, I have successfully led small yet highly effective teams, showcasing my leadership capabilities.
+I'm a Senior Software Engineer with nine years of professional experience, specializing in Frontend Development. My proficiency extends to building complex Sass solutions, creating design systems, and browser extensions, and effectively leading engineering teams.
 
-I've collaborated closely with PMs, designers, engineers, and others in my career, translating business needs into engineering solutions. I'm passionate about delivering top-notch products by working closely with both business and engineering teams.
+Proven in collaborating with cross-functional teams, I excel at translating business requirements into innovative and resilient engineering solutions.
 
-I also have hands-on experience as a speaker, delivering talks at meetups and conducting internal workshops within organizations.
+Beyond my technical capabilities, I bring experience as a speaker at meetups, organizer of developer workshops, and a contributor to open-source software.
+
+**Skills, tools, and technologies I possess.**
+
+**Frontend development:** JavaScript, TypeScript, React, Redux, Angular, RxJS, Angular Material, Bootstrap, OpenLayers, GraphQL, REST API, Design Systems, Storybook, Figma.
+
+**Backend development:** NodeJS, NestJS, MongoDB, Express.
+
+**Testing:** Jest, Cypress, WebdriverIO.
+
+**Management:** Engineering management, team leading, planning, estimating and assigning tasks, hiring, mentoring, and assessing engineers.
+
+**Infrastructure:** Terraform, AWS, Docker, GitHub actions, Jenkins.
+
+**Logging and monitoring:** Grafana, Kibana, Sumologic, Sentry, New Relic.
+
+**A/B testing and analytics:** Mixpanel, Heap Analytics, Optimizely.
